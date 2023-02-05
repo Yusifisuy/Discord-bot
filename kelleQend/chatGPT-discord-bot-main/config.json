@@ -1,0 +1,5 @@
+{
+    "discord_bot_token":"Write your own discord token",
+    "discord_channel_id":"Write your channel id",
+    "openAI_key": "Write your open ai key"
+}
